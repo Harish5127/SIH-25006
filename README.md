@@ -56,6 +56,9 @@ The portal uses an AI-based risk score, simple training videos, offline access, 
 
 The system will be built using web and mobile technologies like React, Node.js or Django, PostgreSQL, and mapping tools for disease alerts. The app will have modules for risk assessment, training, alerts, record keeping, and dashboards. All data will sync to the cloud and work even with low internet.
 
+![Uploading image.png…]()
+
+
 ## Feasibility and Viability
 
 The solution is easy to develop using available technologies and can be used by farmers with basic smartphones. It is cost-effective and scalable across rural India. The main challenges are low digital literacy and weak internet, but we solve this through an offline mode and simple interfaces.
