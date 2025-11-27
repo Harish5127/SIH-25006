@@ -56,7 +56,8 @@ The portal uses an AI-based risk score, simple training videos, offline access, 
 
 The system will be built using web and mobile technologies like React, Node.js or Django, PostgreSQL, and mapping tools for disease alerts. The app will have modules for risk assessment, training, alerts, record keeping, and dashboards. All data will sync to the cloud and work even with low internet.
 
-![Uploading image.png…]()
+
+<img width="850" height="463" alt="image" src="https://github.com/user-attachments/assets/31a6baaa-d394-4514-81a3-221520457481" />
 
 
 ## Feasibility and Viability
